@@ -11,7 +11,7 @@
 2. vs-code
 3. Ubuntu
 4. ChatGPT
-5. 
+
 
 ### Basic Requirements:
 1. Download a [Virtualbox] (https://www.virtualbox.org/wiki/Downloads)
